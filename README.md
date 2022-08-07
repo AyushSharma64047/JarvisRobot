@@ -24,12 +24,11 @@ The Support group can be reached out to at [Jarvis Support](https://t.me/JarvisS
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/sppidy/JarvisRobot/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -38,7 +37,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/sppidy/JarvisRobot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -54,7 +53,7 @@ python3 bot.py
   
  
  
- Note: This instruction set is just a copy paste from Marie, note that [Jarvis Support](https://t.me/JarvisSupportOT) aims to handle support for @Jarvisbot and now how to setup your own fork, if you find this bit confusing/tough to understand then we recommend you ask a dev, kindly avoid asking how to setup the bot instance in the support chat, it aims to help our own instance of the bot. 
+ Note: This instruction set is just a copy paste from Me, note that [Jarvis Support](https://t.me/JarvisSupportOT) aims to handle support for @Jarvisbot and now how to setup your own fork, if you find this bit confusing/tough to understand then we recommend you ask a dev, kindly avoid asking how to setup the bot instance in the support chat, it aims to help our own instance of the bot. 
   
   ## Setting up the bot (Read this before trying to use!):
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older python versions!
